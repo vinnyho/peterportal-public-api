@@ -6,7 +6,8 @@
     "start": "nodemon server.ts",
     "test": "jest",
     "init_db": "node ./db/sqlite.js",
-    "refresh": "node ./utils/refreshESCache.js"
+    "refresh": "node ./utils/refreshESCache.js",
+    "build": "tsc"
   },
   "dependencies": {
     "@sentry/serverless": "^6.17.9",

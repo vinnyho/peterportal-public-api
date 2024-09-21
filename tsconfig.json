@@ -7,7 +7,6 @@
     "baseUrl": "./",
     "outDir": "./dist",
     "sourceMap": true,
-    "watch": true,
     "alwaysStrict": true,
     "allowJs": true,
     "skipLibCheck": true,
